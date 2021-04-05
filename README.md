@@ -1,4 +1,6 @@
-# review classification
+# review MLclassification
+
+Machine learning project written on Python and PyTorch.
 
 Analysis and classificationof Wine Reviews from Kaggle.com.
 Te original ...150k.csv file should be downloaded to the project folder. Data Science analysis is provided in the dataset_analysis notebook.
