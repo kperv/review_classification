@@ -1,7 +1,6 @@
-# review classification
+# Wine review classification
 
-Machine learning project written on Python and PyTorch.
+Machine learning project written on **Python** and **PyTorch**. Deep learning model from scratch. Architecture is stacked CNN layers.
+Data is Wine Reviews dataset from kaggle.com. https://www.kaggle.com/zynicide/wine-reviews
 
-Analysis and classification of Wine Reviews from Kaggle.com.
-The original ...150k.csv file should be downloaded to the project folder. Data Science analysis is provided in the *dataset_analysis* notebook.
-Data download, clean-up and split is provided in *dataset_preprocessing* module. To get a prediction run *multiclass_classification.py*.
+Data analysis is provided in the *dataset_analysis* notebook. Data download, clean-up and split is provided in *dataset_preprocessing* module. 
