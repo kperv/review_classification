@@ -17,7 +17,7 @@ import torch.nn.functional as F
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
 
-import dataset_preprocessing as dp
+import preprocess as dp
 
 
 NUM_CLASSES = 3
