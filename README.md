@@ -1,6 +1,6 @@
 # ML classification model
 
-Model learns to predict a class on texts meaning. 
+Model learns to predict a class on texts meaning. Neural Net's architecture is stacked CNN layers. Texts are transformed into one-hot matrices. Accuracy is no SOTA.
 1. Check requirements.txt
 2. Download data from https://www.kaggle.com/zynicide/wine-reviews. Other data source can be used, if provided in a Pandas dataframe with columns "description" for texts and "country" for labels.
 3. Run analysis.ipynb to see if it loads correctly and get handy dataset info.
